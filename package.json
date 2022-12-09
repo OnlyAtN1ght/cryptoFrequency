@@ -1,0 +1,17 @@
+{
+  "name": "cryptofrequency",
+  "version": "1.0.0",
+   "description": "A JavaScript tool for performing frequency analysis on n-grams (sequences of n characters) in ciphertexts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptography",
+    "n-grams",
+    "frequency",
+    "analysis"
+  ],
+  "author": "",
+  "license": "MIT"
+}
